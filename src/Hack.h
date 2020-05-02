@@ -1,7 +1,7 @@
 #ifndef _HACK_H
 #define _HACK_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t Hack10[];
